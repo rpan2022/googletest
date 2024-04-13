@@ -80,6 +80,8 @@ TEST(FactorialTest, Negative) {
   EXPECT_EQ(1, Factorial(-1));
   EXPECT_GT(Factorial(-10), 0);
 
+  EXPECT_EQ(1, 2 - 1);
+
   // <TechnicalDetails>
   //
   // EXPECT_EQ(expected, actual) is the same as
