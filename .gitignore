@@ -28,6 +28,7 @@ x64-Release/
 # VSCode files
 .cache/
 cmake-variants.yaml
+.vscode/
 
 # Ignore autoconf / automake files
 Makefile.in
