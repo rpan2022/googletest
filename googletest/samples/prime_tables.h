@@ -36,6 +36,9 @@
 
 #include <algorithm>
 
+// some changes 
+// only to test github query search
+
 // The prime table interface.
 class PrimeTable {
  public:
